@@ -1,0 +1,26 @@
+,Repository Title,Repository Description,Contributors Count,Language Used
+0,sveltejs /,Cybernetically enhanced web apps,"3,492",JavaScript
+1,a16z-infra /,"A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs",186,TypeScript
+2,vllm-project /,A high-throughput and memory-efficient inference and serving engine for LLMs,126,Python
+3,figma /,🔌 Sample Figma plugins.,262,TypeScript
+4,google /,GoogleTest - Google Testing and Mocking Framework,"9,549",C++
+5,OpenDriveLab /,[CVPR 2023 Best Paper] Planning-oriented Autonomous Driving,99,Python
+6,csunny /,Revolutionizing Database Interactions with Private LLM Technology,677,Python
+7,s0md3v /,roop extension for StableDiffusion web-ui,141,Python
+8,devfullcycle /,NA,47,TypeScript
+9,codecrafters-io /,Master programming by recreating your favorite technologies from scratch.,"20,082",NA
+10,Jessecar96 /,Desktop implementation of Steam's mobile authenticator app,571,C#
+11,ossu /,🎓 Path to a free self-taught education in Computer Science!,"18,243",NA
+12,TodePond /,perfect programming language,79,NA
+13,SkalskiP /,This repository is a curated collection of the most exciting and influential CVPR 2023 papers. 🔥 [Paper + Code],29,Python
+14,serverless-stack /,💥 SST makes it easy to build full-stack serverless apps.,"1,414",TypeScript
+15,scikit-learn /,scikit-learn: machine learning in Python,"24,366",Python
+16,angular /,The modern web developer’s platform,"23,782",TypeScript
+17,AUTOMATIC1111 /,Stable Diffusion web UI,"16,659",Python
+18,eslint /,Find and fix problems in your JavaScript code.,"4,285",JavaScript
+19,loft-sh /,"Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.",65,Go
+20,nodejs /,Node.js JavaScript runtime ✨🐢🚀✨,"26,180",JavaScript
+21,edtechre /,Algorithmic Trading in Python with Machine Learning,120,Python
+22,veler /,A Swiss Army knife for developers.,816,C#
+23,geohot /,You like pytorch? You like micrograd? You love tinygrad! ❤️,"1,615",Python
+24,terraform-aws-modules /,Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦,"3,616",HCL

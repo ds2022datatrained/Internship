@@ -1,0 +1,21 @@
+,Dataset Name,Data Type,Task,Attribute_Type,No_Of_Instances,No_Of_Attribute,Year
+0,Iris,Multivariate,Classification,Real,150,4,Donated on 6/30/1988
+1,Heart Disease,Multivariate,Classification,"Categorical, Integer, Real",303,13,Donated on 6/30/1988
+2,Adult,Multivariate,Classification,"Categorical, Integer",48842,14,Donated on 4/30/1996
+3,Dry Bean Dataset,Multivariate,Classification,"Integer, Real",13611,17,Donated on 9/13/2020
+4,Diabetes,"Multivariate, Time-Series",-,"Categorical, Integer",-,20,NA
+5,Rice (Cammeo and Osmancik),Multivariate,Classification,Real,3810,8,Donated on 10/5/2019
+6,Wine,Multivariate,Classification,"Integer, Real",178,13,Donated on 6/30/1991
+7,Car Evaluation,Multivariate,Classification,Categorical,1728,6,Donated on 5/31/1997
+8,Breast Cancer Wisconsin (Diagnostic),Multivariate,Classification,Real,569,30,Donated on 10/31/1995
+9,Mushroom,Multivariate,Classification,Categorical,8124,22,Donated on 4/26/1987
+10,Abalone,Multivariate,Classification,"Categorical, Integer, Real",4177,8,Donated on 11/30/1995
+11,Breast Cancer,Multivariate,Classification,Categorical,286,9,Donated on 7/10/1988
+12,Glass Identification,Multivariate,Classification,Real,214,9,Donated on 8/31/1987
+13,Statlog (German Credit Data),Multivariate,Classification,"Categorical, Integer",1000,20,Donated on 11/16/1994
+14,Census Income,Multivariate,Classification,"Categorical, Integer",48842,14,Donated on 4/30/1996
+15,Breast Cancer Wisconsin (Original),Multivariate,Classification,Integer,699,9,Donated on 7/14/1992
+16,Thyroid Disease,"Multivariate, Domain-Theory",Classification,"Categorical, Real",7200,5,Donated on 12/31/1986
+17,Auto MPG,Multivariate,Regression,"Categorical, Real",398,7,Donated on 7/6/1993
+18,Optical Recognition of Handwritten Digits,Multivariate,Classification,Integer,5620,64,Donated on 6/30/1998
+19,Spambase,Multivariate,Classification,"Integer, Real",4601,57,Donated on 6/30/1999
